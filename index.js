@@ -5,3 +5,8 @@ function happyHolidays(string){
     return "Happy holidays!"
   }
 }
+
+function happyHolidaysTo(firstName){
+  if(firstName=firstName){
+    return "Happy holidays, ${name}"
+  }}
